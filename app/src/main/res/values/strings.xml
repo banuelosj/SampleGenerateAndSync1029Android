@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyGenerateGeodatabase1029</string>
+    <string name="gen_geodatabase_button_text">GenerateGDB</string>
+    <string name="featureservice_url">http://supt0007288:6080/arcgis/rest/services/IndTest/FeatureServer</string>
+</resources>
